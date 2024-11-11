@@ -17,8 +17,8 @@ To implement the Hash Algorithm
 
 ## Code:
 ```
-Name : Abdur Rahman Basil A H
-Register no : 212223040002
+Name : Senthamil Selvan G
+Register no : 212222230139
 ```
 ```c
 #include <stdio.h>
@@ -74,7 +74,8 @@ int main() {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/287728ce-5b4d-464a-ad4c-ac333dc96db3)
+![Screenshot 2024-11-11 102249](https://github.com/user-attachments/assets/ecfc6e33-1c70-4454-a89f-32863e37d159)
+
 
 
 ## Result:
